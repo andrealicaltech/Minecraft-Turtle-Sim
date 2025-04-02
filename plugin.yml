@@ -1,0 +1,6 @@
+name: CS1_Plugin
+version: 1.0
+main: edu.caltech.cs001.MainPlugin
+author: CS1 Student
+api-version: 1.0
+description: A plugin that a CS1 student implemented :).
